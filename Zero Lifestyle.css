@@ -1,0 +1,26 @@
+.color1{
+  height: 20px;
+  width: 20px;
+  background-color: red;
+  border-radius: 50%;
+}
+.color2{
+  height: 20px;
+  width: 20px;
+  background-color: purple;
+  border-radius: 50%;
+}
+.color3{
+  height: 20px;
+  width: 20px;
+  background-color: blue;
+  border-radius: 50%;
+}
+.container-fluid{
+  font-size: 20px;
+  font-weight: bold; 
+  text-decoration: none;
+  fill: white;
+  filter: brightness(1000);
+  margin-left: 50px;
+}
